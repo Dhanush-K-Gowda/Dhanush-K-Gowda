@@ -86,7 +86,11 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhanush-K-Gowda&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=Dhanush-K-Gowda&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
+  <a href="https://leetcode.com/dhanushkgowda/" target="_blank">
+  <img src="https://leetcode-stats-six.vercel.app/?username=dhanushkgowda&theme=dark" alt="streak graph"  />
+  </a>
+
 </div>
 
 ###
