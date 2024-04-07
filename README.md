@@ -73,7 +73,10 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  /> 
    <img src="https://img.shields.io/badge/matlab-%23013243.svg?style=for-the-badge&logo=matlab&logoColor=white" height="30" alt="matlab logo"  /> <img width="12" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30" alt="excel logo"  />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30" alt="excel logo"  /> <img width="12" />
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" height="30" alt="excel logo"  />
+  
+  
   
 </div>
 
