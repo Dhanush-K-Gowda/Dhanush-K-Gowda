@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dhanush-K-Gowda.Dhanush-K-Gowda&"  />
-</div>
+
 
 ###
 
@@ -94,3 +92,6 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dhanush-K-Gowda.Dhanush-K-Gowda&"  />
+</div>
